@@ -1,0 +1,18 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name": "Felipe",
+            "avatar": "https://tse3.mm.bing.net/th?id=OIP.VUKm-nhIGOH_MGLeGyDN8gAAAA&pid=Api&P=0&h=180",
+            "email": "cualquiera@gmail.com",
+            "password": "12345"
+        },
+        {
+            "id":2,
+            "name": "Luisa",
+            "avatar": "https://tse3.mm.bing.net/th?id=OIP.VUKm-nhIGOH_MGLeGyDN8gAAAA&pid=Api&P=0&h=180",
+            "email": "cualquieratambien@gmail.com",
+            "password": "123456"
+        }
+    ]
+}
